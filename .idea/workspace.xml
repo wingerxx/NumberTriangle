@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6a3f402d-891e-44b1-b3c3-d346f2579452" name="Changes" comment="finished the retrieve method, unable to test since loadTriangle method isn't completed" />
+    <list default="true" id="6a3f402d-891e-44b1-b3c3-d346f2579452" name="Changes" comment="version some files">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/NumberTriangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NumberTriangle.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,36 +17,36 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="todo_retrieve" />
+        <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "wingerxx"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;wingerxx&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/wingerxx/NumberTriangle.git",
-    "accountId": "0761c8f3-7150-45ba-801f-e5a62a66a0ef"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/wingerxx/NumberTriangle.git&quot;,
+    &quot;accountId&quot;: &quot;0761c8f3-7150-45ba-801f-e5a62a66a0ef&quot;
   },
-  "recentNewPullRequestHead": {
-    "server": {
-      "useHttp": false,
-      "host": "github.com",
-      "port": null,
-      "suffix": null
+  &quot;recentNewPullRequestHead&quot;: {
+    &quot;server&quot;: {
+      &quot;useHttp&quot;: false,
+      &quot;host&quot;: &quot;github.com&quot;,
+      &quot;port&quot;: null,
+      &quot;suffix&quot;: null
     },
-    "owner": "wingerxx",
-    "repository": "NumberTriangle"
+    &quot;owner&quot;: &quot;wingerxx&quot;,
+    &quot;repository&quot;: &quot;NumberTriangle&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="33QukVZCgfhXUOeTiwOOcILVI2e" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -51,11 +55,13 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "JUnit.NumberTriangleTest.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Notification.DisplayName-DoNotAsk-project.configuration.files.added.notification": "",
     "Notification.DoNotAsk-project.configuration.files.added.notification": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "SONARLINT_PRECOMMIT_ANALYSIS": "true",
+    "git-widget-placeholder": "todo__loadTriangle",
     "junie.onboarding.icon.badge.shown": "true",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
@@ -99,6 +105,7 @@
       <option name="presentableId" value="Default" />
       <updated>1759261759953</updated>
       <workItem from="1759261761183" duration="1616000" />
+      <workItem from="1759263884457" duration="1703000" />
     </task>
     <task id="LOCAL-00001" summary="finished the retrieve method, unable to test since loadTriangle method isn't completed">
       <option name="closed" value="true" />
@@ -116,7 +123,15 @@
       <option name="project" value="LOCAL" />
       <updated>1759263293547</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="version some files">
+      <option name="closed" value="true" />
+      <created>1759263961700</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1759263961700</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -124,6 +139,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="finished the retrieve method, unable to test since loadTriangle method isn't completed" />
-    <option name="LAST_COMMIT_MESSAGE" value="finished the retrieve method, unable to test since loadTriangle method isn't completed" />
+    <MESSAGE value="version some files" />
+    <option name="LAST_COMMIT_MESSAGE" value="version some files" />
   </component>
 </project>
